@@ -7,6 +7,7 @@
 ```
 ```
 [NLP WITH DEEP LEARNING](http://onlinehub.stanford.edu/cs224) : Winter2019, Stanford
+
 19 lecture
 
 the first one is https://help.github.com/en/articles/autolinked-references-and-urls

@@ -1,4 +1,13 @@
 # My best link for NLP
+
+[Deep RL Bootcamp, August 2017, Berkeley CA](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+
+```
+Dead line : June 14, 2019
+Turkey
+December 22-24
+```
+
 the first one is https://help.github.com/en/articles/autolinked-references-and-urls
 http://www.robots.ox.ac.uk/~vedaldi//
 https://users.encs.concordia.ca/~j_sadri/Persian_Handwritten_Database.htm

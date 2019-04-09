@@ -1,6 +1,6 @@
 # My best link for NLP
 
-[Deep RL Bootcamp, August 2017, Berkeley CA](https://sites.google.com/view/deep-rl-bootcamp/lectures)
+[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) : August 2017, Berkeley CA
 
 ```
 13 lecture video+slide

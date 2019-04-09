@@ -1,14 +1,10 @@
 # My best link for NLP
 
-[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) : August 2017, Berkeley CA
-
-13 lecture video+slide
+[Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) : August 2017, Berkeley CA, (13 lecture video+slide)
 
 ```
 ```
-[NLP WITH DEEP LEARNING](http://onlinehub.stanford.edu/cs224) : Winter2019, Stanford
-
-19 lecture + slide + everything! :)
+[NLP WITH DEEP LEARNING](http://onlinehub.stanford.edu/cs224) : Winter2019, Stanford, (19 lecture + slide + everything! :))
 
 the first one is https://help.github.com/en/articles/autolinked-references-and-urls
 http://www.robots.ox.ac.uk/~vedaldi//

@@ -1,9 +1,9 @@
 # My best link for NLP
 
 [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) : August 2017, Berkeley CA
+13 lecture video+slide
 
 ```
-13 lecture video+slide
 ```
 
 the first one is https://help.github.com/en/articles/autolinked-references-and-urls

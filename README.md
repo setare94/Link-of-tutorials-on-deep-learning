@@ -8,6 +8,8 @@
 
 [Reinforcement Learning](http://onlinehub.stanford.edu/cs234) : Winter2019, Stanford, (5 lecture + slide + everything! :))
 
+[NIPS 2018] (http://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018) : all of the papaers
+
 the first one is https://help.github.com/en/articles/autolinked-references-and-urls
 http://www.robots.ox.ac.uk/~vedaldi//
 https://users.encs.concordia.ca/~j_sadri/Persian_Handwritten_Database.htm

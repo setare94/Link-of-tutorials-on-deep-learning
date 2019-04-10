@@ -10,7 +10,7 @@
 
 [NIPS 2018](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018) : all of the papres
 
-[Reinforcement book](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view) : all of the papres
+[Reinforcement Learning] (https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view) : An Introduction Book by Andrew Barto and Richard S. Sutton
 
 
 

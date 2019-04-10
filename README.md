@@ -10,6 +10,11 @@
 
 [NIPS 2018](http://papers.nips.cc/book/advances-in-neural-information-processing-systems-31-2018) : all of the papres
 
+[Reinforcement book](https://drive.google.com/file/d/1opPSz5AZ_kVa1uWOdOiveNiBFiEOHjkG/view) : all of the papres
+
+
+
+
 the first one is https://help.github.com/en/articles/autolinked-references-and-urls
 http://www.robots.ox.ac.uk/~vedaldi//
 https://users.encs.concordia.ca/~j_sadri/Persian_Handwritten_Database.htm

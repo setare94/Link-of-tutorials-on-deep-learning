@@ -1,4 +1,4 @@
-# My best link for NLP
+# My best link for Deep Learning
 
 [Deep RL Bootcamp](https://sites.google.com/view/deep-rl-bootcamp/lectures) : August 2017, Berkeley CA, (13 lecture video+slide)
 
